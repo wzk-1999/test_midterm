@@ -3,21 +3,39 @@
   "WorkspaceRootPath": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EE161214-01FE-4C39-AA9F-53BD424753CB}|LaptopDiscountTest\\LaptopDiscountTest.csproj|c:\\assignment\\spring 2024\\software quality\\laptopdiscount_s4\\laptopdiscounttest\\laptopdiscounttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE161214-01FE-4C39-AA9F-53BD424753CB}|LaptopDiscountTest\\LaptopDiscountTest.csproj|solutionrelative:laptopdiscounttest\\laptopdiscounttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE161214-01FE-4C39-AA9F-53BD424753CB}|LaptopDiscountTest\\LaptopDiscountTest.csproj|c:\\assignment\\spring 2024\\software quality\\laptopdiscount_s4\\laptopdiscounttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE161214-01FE-4C39-AA9F-53BD424753CB}|LaptopDiscountTest\\LaptopDiscountTest.csproj|solutionrelative:laptopdiscounttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|c:\\assignment\\spring 2024\\software quality\\laptopdiscount_s4\\laptopdiscount\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|solutionrelative:laptopdiscount\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\laptopdiscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|solutionrelative:laptopdiscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LaptopDiscount||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|c:\\assignment\\spring 2024\\software quality\\laptopdiscount_s4\\laptopdiscount\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|solutionrelative:laptopdiscount\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|c:\\assignment\\spring 2024\\software quality\\laptopdiscount_s4\\laptopdiscount\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 202,
       "DocumentGroups": [
         {
-          "DockedWidth": 966,
+          "DockedWidth": 482,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -31,19 +49,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LaptopDiscountTest.cs",
+              "DocumentMoniker": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\LaptopDiscountTest\\LaptopDiscountTest.cs",
+              "RelativeDocumentMoniker": "LaptopDiscountTest\\LaptopDiscountTest.cs",
+              "ToolTip": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\LaptopDiscountTest\\LaptopDiscountTest.cs",
+              "RelativeToolTip": "LaptopDiscountTest\\LaptopDiscountTest.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAUwF0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:59:48.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\LaptopDiscountTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LaptopDiscountTest\\UnitTest1.cs",
+              "ToolTip": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\LaptopDiscountTest\\UnitTest1.cs",
+              "RelativeToolTip": "LaptopDiscountTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:58:42.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LaptopDiscount",
+              "DocumentMoniker": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\LaptopDiscount\\LaptopDiscount.csproj",
+              "RelativeDocumentMoniker": "LaptopDiscount\\LaptopDiscount.csproj",
+              "ToolTip": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\LaptopDiscount\\LaptopDiscount.csproj",
+              "RelativeToolTip": "LaptopDiscount\\LaptopDiscount.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-21T21:56:50.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\LaptopDiscount\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LaptopDiscount\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\LaptopDiscount\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "LaptopDiscount\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:54:26.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Discount.cs",
               "DocumentMoniker": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\LaptopDiscount\\Discount.cs",
               "RelativeDocumentMoniker": "LaptopDiscount\\Discount.cs",
               "ToolTip": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\LaptopDiscount\\Discount.cs",
               "RelativeToolTip": "LaptopDiscount\\Discount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T18:01:58.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\assignment\\spring 2024\\software quality\\LaptopDiscount_S4\\LaptopDiscount\\Program.cs",
               "RelativeDocumentMoniker": "LaptopDiscount\\Program.cs",
@@ -51,7 +120,18 @@
               "RelativeToolTip": "LaptopDiscount\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T18:00:52.237Z"
+              "WhenOpened": "2024-06-12T18:00:52.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 515,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

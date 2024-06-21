@@ -14,12 +14,20 @@ namespace LaptopDiscount
         CompanyPurchasing // 20% Discount
     }
 
+     
+
     public class EmployeeDiscount
     {
         public EmployeeType EmployeeType { get; set; }
         public decimal Price { get; set; }
         public object Assert { get; set; }
 
+
+        public EmployeeDiscount(EmployeeType employeeType,decimal price) { 
+        this.EmployeeType = employeeType;
+            this.Price = price;
+            //this.Assert = assert;
+        }
         public decimal CalculateDiscountedPrice()
         {
             decimal discount = 0;
